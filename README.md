@@ -1,5 +1,3 @@
-# IOT-Based-Smart-Mirror
-
 📱 Smart Mirror IoT – Everyday Intelligence on Your Wall
 This Smart Mirror project uses an Arduino Nano, 0.96" OLED Display, Bluetooth module, and DS3231 RTC to bring interactive and real-time features to your mirror. Designed under the concept of “Smart Use”, it combines utility and creativity, making your mirror a multifunctional daily assistant.
 
@@ -20,8 +18,3 @@ OLED Display (0.96" I2C)
 Bluetooth Module (HC-05/06)
 RTC Module (DS3231)
 Jumper Wires, Breadboard, Power Source
-💡 Use Cases:
-
-Smart home decoration with purpose
-Study/work desk mirror with utilities
-Personalized display for daily tasks
